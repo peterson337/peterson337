@@ -3,6 +3,15 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/peterson-rodrigues-b6821824b/)
 
+## Tecnologias que eu uso no meu dia 
+
+<div>
+<img 
+  src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'
+  alt='react'
+  align='center'
+  /> 
+</div>
 <!--
 **peterson337/peterson337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
