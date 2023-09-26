@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1>titulo<h1>
+<p>titulo</p>
 
 <!--
 **peterson337/peterson337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
