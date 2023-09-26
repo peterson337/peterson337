@@ -1,6 +1,7 @@
-### Hi there 👋
+### Hello! i'm Peterson Rodrigues dos Santos 🤓
 
-<p>titulo</p>
+[!linkedin(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](www.linkedin.com/in/peterson-rodrigues-b6821824b)
 
 <!--
 **peterson337/peterson337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
