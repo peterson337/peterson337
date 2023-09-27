@@ -3,7 +3,7 @@
 
 ### Olá! meu nome é peterson Rodrigues dos Santos 🤓
 
-## Cartão de estatísticas
+## Cartão de estatísticas 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterson337&show_icons=true&theme=transparent  )
 
