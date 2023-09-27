@@ -3,6 +3,8 @@
 
 ### Olá! meu nome é peterson Rodrigues dos Santos 🤓
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterson337&hide=contribs,prs)
+
 ## Meu linkedin
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/peterson-rodrigues-b6821824b/)
