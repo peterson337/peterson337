@@ -7,7 +7,7 @@
 
 ## Linguagens que eu mais uso
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterson337)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=peterson337&bg_color=blue)](https://github.com/anuraghazra/github-readme-stats)
 ## Meu linkedin
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/peterson-rodrigues-b6821824b/)
