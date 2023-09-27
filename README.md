@@ -3,7 +3,7 @@
 
 ### Olá! meu nome é peterson Rodrigues dos Santos 🤓
 
-![Anurag's GitHub stats-dark](https://github-readme-stats.vercel.app/api?username=peterson337&hide=contribs,prs)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peterson337&show_icons=true&theme=transparent  )
 
 ## Linguagens que eu mais uso
 
