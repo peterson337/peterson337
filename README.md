@@ -16,54 +16,47 @@
 
 ## Tecnologias que eu uso no meu dia 
 
-<div
-  style="display: inline_block" 
-  >
-<img 
-  src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'
-  alt='react'
-  align='center'
-  /> 
+<div style="display: flex; justify-content: center; align-items: center;">
 
-  <img 
-  src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'
-  alt='react native'
-  align='center'
-  /> 
-  
-  <img 
-  src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'
-  alt='html5'
-  align='center'
-  /> 
-  
-<img 
+
+
+  <table>
+  <tr>
+      <img 
+        src='https://img.shields.io/badge/React-007bff?style=for-the-badge&logo=react&logoColor=61DAFB'
+        alt='react'
+      />&nbsp;
+      <img 
+        src='https://img.shields.io/badge/React_Native-007bff?style=for-the-badge&logo=react&logoColor=61DAFB'
+        alt='react native'
+      />&nbsp;
+      <img 
+        src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'
+        alt='html5'
+      />&nbsp;
+      <img 
   src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'
   alt='css '
-  align='center'
-  /> 
-
+  />&nbsp;
   <img 
   src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white'
-  alt='javascript'
-  align='center'
-  /> 
-
-  <img 
-  src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'
   alt='typescript'
-  align='center'
-  /> 
-
-   <img 
+  />&nbsp;
+    <img 
+  src='https://img.shields.io/badge/JavaScript-ffe300?style=for-the-badge&logo=javascript&logoColor=black'
+  alt='javascript'
+  />&nbsp; 
+  <img 
   src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white'
   alt='tailwind'
-  align='center'
-  /> 
-   <img 
+  />&nbsp; 
+  <img 
   src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white'
   alt='redux'
-  align='center'
-  /> 
-  
+  />&nbsp;  
+
+    
+  </tr>
+</table>
 </div>
+
