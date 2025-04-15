@@ -1,7 +1,6 @@
+<h3 align="center">Hello! i'm Peterson Rodrigues dos Santos 🤓<br><br>You are welcome to visit my GitHub profile.</h3>
 
-### Hello! i'm Peterson Rodrigues dos Santos 🤓
-
-### You are welcome to visit my GitHub profile.
+###
 
 ## statistics card
 
